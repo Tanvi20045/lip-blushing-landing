@@ -7,7 +7,7 @@ A mobile-first luxury landing page designed for Lip Blushing services in Delhi. 
 ---
 
 ## 🚀 Live Demo
-(Add your Vercel link here)
+https://lip-blushing-landing.vercel.app/
 
 ---
 
